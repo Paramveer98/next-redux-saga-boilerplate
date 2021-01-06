@@ -1,0 +1,5 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint", // This line is required to fix "unexpected token" errors,
+  "eslint linebreak-style": ["error", "windows"]
+}
